@@ -1,4 +1,5 @@
 numpy
+ipykernel
 pandas
 python-dotenv
 mysql-connector-python
