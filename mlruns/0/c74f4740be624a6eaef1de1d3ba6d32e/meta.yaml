@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pachp/Desktop/projects/mlproject_student/mlruns/0/c74f4740be624a6eaef1de1d3ba6d32e/artifacts
+end_time: 1710186274671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c74f4740be624a6eaef1de1d3ba6d32e
+run_name: lyrical-colt-688
+run_uuid: c74f4740be624a6eaef1de1d3ba6d32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710186265118
+status: 3
+tags: []
+user_id: root
